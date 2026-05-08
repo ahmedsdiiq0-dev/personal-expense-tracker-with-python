@@ -38,7 +38,7 @@ cd personal-expense-tracker-with-python
 
 3. **Run the script:**
 ```bash
-python3 expense-treacker.py
+python3 expense-tracker.py
 ```
 
 ## 📝 Usage Example
